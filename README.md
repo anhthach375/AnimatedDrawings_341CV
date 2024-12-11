@@ -39,6 +39,10 @@ Displayed Images:
 - **Left:** Binary version of the original texture image.
 - **Right:** Binary version of the mask image.
 
+Example of expected output:
+<img width="686" alt="Screenshot 2024-12-11 at 7 25 42 AM" src="https://github.com/user-attachments/assets/5ed102e1-e415-47e9-b12c-454ffb454111">
+
+
 ## Troubleshooting
 - **Image Load Error:** Ensure the uploaded files are valid image formats (e.g., PNG, JPG).
 - **Unexpected Results:** Verify the image content and adjust the thresholding parameters if necessary.
