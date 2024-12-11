@@ -12,8 +12,8 @@ This repository provides a Python script for calculating Intersection over Union
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone [https://github.com/your-username/repository-name.git](https://github.com/anhthach375/AnimatedDrawings_341CV.git)
+cd AnimatedDrawings_341CV
 ```
 
 ### Open the script:
