@@ -18,6 +18,8 @@ cd AnimatedDrawings_341CV
 
 ### Open the script:
 Open the `iou_dice_calculation.ipynb` file in Google Colab or Jupyter Notebook.
+[Link to Colab]([URL](https://colab.research.google.com/drive/1ayTfQarv4x5oqpBRtx21rQafBU03g5rG?authuser=2))
+
 
 ### Upload your files when prompted:
 - The first uploaded image will be treated as the mask (ground truth).
