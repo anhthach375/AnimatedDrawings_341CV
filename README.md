@@ -2,7 +2,7 @@
 
 This repository provides a Python script for calculating Intersection over Union (IoU) and Dice Coefficient between two images using Google Colab.
 
-## Backhground
+## Objective
 We run the code to animate children's drawings (https://github.com/facebookresearch/AnimatedDrawings/blob/main/README.md). After running the code, the segmentation mask will be generated for each uploaded picture. The code here is designed to test how well the model handles the generated segmentation masks.
 
 ## Features
