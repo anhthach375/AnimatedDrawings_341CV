@@ -36,8 +36,8 @@ Open the `iou_dice_calculation.ipynb` file in Google Colab or Jupyter Notebook.
 
 Console Output:
 ```
-IoU: 0.7854
-Dice Coefficient: 0.8793
+IoU: 0.3577
+Dice Coefficient: 0.5689
 ```
 
 Displayed Images:
